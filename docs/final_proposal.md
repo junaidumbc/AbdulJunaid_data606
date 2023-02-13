@@ -61,9 +61,9 @@ Column Names Datatypes
  *  posting_date   - object 
 
 ## ML Models
-I will be using Regression machine learning algorithms such as Linear Regression, Random Forest Regression, Lasso Regression,XGBoost Regressor. 
+I will be using Regression machine learning algorithms such as **Linear Regression, Random Forest Regression, Lasso Regression,XGBoost Regressor**. 
 Also, I will be applying Hyperparameter Tuning on different models using the Randomized Search Cv/Grid Search for better outcomes.
 In the last, a model with good scores based on metrics such as R2 (Coefficient of determination), RMSE(Root Mean Square Error) will be
 selected and will be used for deployment.
 ## Deployment.
-Planning to develop front end web application using Streamlit/ Flask so that user can get the price estimate of the cars
+Planning to develop front end web application using Streamlit so that user can get the price estimate of the cars
