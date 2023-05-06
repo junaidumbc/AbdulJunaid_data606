@@ -1,5 +1,6 @@
 # Prediction of Car Prices - Regression Algorithms(Machine Learning)
-![image](https://raw.githubusercontent.com/junaidumbc/AbdulJunaid_data606/main/docs/images/car_img1.jpg)
+![image](https://raw.githubusercontent.com/junaidumbc/AbdulJunaid_data606/main/docs/images/car_img2.jpg)
+
 Under the guidance: **Prof. Wang, Chaojie**
 
 Presented By :     **Abdul Junaid Mohammed**
