@@ -37,11 +37,12 @@ Before modelling, the dependent variable was selected as the PRICE column (Y), a
 *	XG Boost Regressor
 *	Lasso Regression
 
-Each of these models was trained on the training set and evaluated on the testing set using metrics such as coefficient of determination (R**2), Root mean squared error (RMSE), and Mean absolute error (MAE). However, the accuracy scores were not as expected, so to improve the scores, hyperparameter tuning was performed using randomized search CV on each of the models. Finally, the **Random Forest Regressor** model with the best accuracy score of **86%** was selected.
+Each of these models was trained on the training set and evaluated on the testing set using metrics such as coefficient of determination (R^2), Root mean squared error (RMSE), and Mean absolute error (MAE). However, the accuracy scores were not as expected, so to improve the scores, hyperparameter tuning was performed using randomized search CV on each of the models. Finally, the **Random Forest Regressor** model with the best accuracy score of **86%** was selected.
 
 ## Results
+![image](https://raw.githubusercontent.com/junaidumbc/AbdulJunaid_data606/main/docs/images/Model_results.png)
 
-* Table / Bargraph- Accuracy Score-Screenshot will be inserted here
+* Higher R-squared values and lower MAE, MSE, and RMSE values indicate better model performance.
 
 ## Deployment:
 The best model, i.e. the Random Forest Regressor, was saved as a pickle file. This model was connected to the web app with a user interface that takes in car feature details and outputs the estimated price of the car. The web interface was designed to make it easy for users to interact with the model and get quick and accurate results.
