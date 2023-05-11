@@ -46,11 +46,16 @@ Each of these models was trained on the training set and evaluated on the testin
 
 ## Deployment
 The best model, i.e. the Random Forest Regressor, was saved as a pickle file. This model was connected to the web app with a user interface that takes in car feature details and outputs the estimated price of the car. The web interface was designed to make it easy for users to interact with the model and get quick and accurate results.
-* Screenshot of website will be inserted here
+
+![image](https://raw.githubusercontent.com/junaidumbc/AbdulJunaid_data606/main/docs/images/Streamlit_ScreenShot.png)
 
 
 ## Conclusion
-
-## FutureScope
+In conclusion, this project demonstrated the use of machine learning algorithms to predict the price of used cars based on fundamental details. The project used a large dataset collected from the Craigslist website, and various data preprocessing techniques were applied to handle missing values, duplicates, and outliers. Five supervised machine learning algorithms were evaluated, and the Random Forest Regressor algorithm was selected based on its accuracy score. A web application was developed to provide a user-friendly interface for users to input car details and obtain accurate price predictions.
 
 ## References
+* https://www.jiffylubesocal.com/jiffy-lube-blog/2015/10/drive-type-faq-awd-rear-wheel-front-wheel-whats-the-big-deal/
+* https://www.census.gov/quickfacts/CA
+* https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/
+* https://mobilityforesights.com/product/used-car-market-in-us/
+* https://docs.streamlit.io/knowledge-base/tutorials/deploy
