@@ -6,9 +6,9 @@ Under the guidance: **Prof. Wang, Chaojie**
 Presented By :     **Abdul Junaid Mohammed**
 
 
-#### Link to Dataset: [data](link to be added here)
-#### Link to Presentation: [Final presentation](link to be added here)
-#### Link to Code: [notebooks](link to be added here)
+#### Link to Dataset: [data](https://github.com/junaidumbc/AbdulJunaid_data606/tree/main/data)
+#### Link to Presentation: [Final presentation](https://github.com/junaidumbc/AbdulJunaid_data606/blob/main/docs/Capstone_Presentation.pdf)
+#### Link to Code: [notebooks](https://github.com/junaidumbc/AbdulJunaid_data606/tree/main/src)
 #### Link to Youtube: [Youtube](link to be added here)
 
 ## Abstract
