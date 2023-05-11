@@ -24,9 +24,6 @@ The dataset used in this project consists of 26 attributes and 426,880 records, 
 In the data cleaning and preprocessing stage, redundant columns that were not relevant to the model, such as County, Id, Lat, Long, region, and VIN, were removed, leaving around 14 relevant attributes. Missing values in the dataset were handled by applying imputation techniques such as filling categorical column missing values with the mode of their respective columns, bfill(), ffill() and numerical columns missing values with the mean of their respective columns. Additionally, duplicate records were removed from the dataset.
 To handle outliers in columns such as Odometer and Price, the Interquartile Range (IQR) technique was used. For categorical encoding, I have used label encoding to all categorical features so that the machine could understand the data. Data scaling was then applied using MinMaxScaler() as the data did not have a normal distribution and scaling was necessary to achieve a specific range, such as between 0 and 1
 
-## Visualization
-Ask professor Is this Section Manadatory ??
-
 ## Modelling
 Before modelling, the dependent variable was selected as the PRICE column (Y), and the rest of the columns were selected as independent variables (X). The dataset was split into 70% training and 30% testing sets. Five supervised machine learning prediction models were used, namely:
 
