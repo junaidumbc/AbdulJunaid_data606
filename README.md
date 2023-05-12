@@ -37,7 +37,7 @@ Before modelling, the dependent variable was selected as the PRICE column (Y), a
 Each of these models was trained on the training set and evaluated on the testing set using metrics such as coefficient of determination (R^2), Root mean squared error (RMSE), and Mean absolute error (MAE). However, the accuracy scores were not as expected, so to improve the scores, hyperparameter tuning was performed using randomized search CV on each of the models. Finally, the **Random Forest Regressor** model with the best accuracy score of **86%** was selected.
 
 ## Results
-![image](https://raw.githubusercontent.com/junaidumbc/AbdulJunaid_data606/main/docs/images/Model_results_1.png)
+![image](https://raw.githubusercontent.com/junaidumbc/AbdulJunaid_data606/main/docs/images/Results.png)
 
 * Higher R-squared values and lower MAE, MSE, and RMSE values indicate better model performance.
 
