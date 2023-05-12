@@ -9,7 +9,7 @@ Presented By :     **Abdul Junaid Mohammed**
 #### Link to Dataset: [data](https://github.com/junaidumbc/AbdulJunaid_data606/tree/main/data)
 #### Link to Presentation: [Final presentation](https://github.com/junaidumbc/AbdulJunaid_data606/blob/main/docs/Capstone_Presentation.pdf)
 #### Link to Code: [notebooks](https://github.com/junaidumbc/AbdulJunaid_data606/tree/main/src)
-#### Link to Youtube: [Youtube](link to be added here)
+#### Link to Youtube: [Youtube](https://www.youtube.com/watch?v=4feiwZIg-tg)
 
 ## Abstract
 Buying a used car can be a challenging task, especially if you're new to the country and unfamiliar with the market value of cars. The used car market is extensive, and people can sometimes get cheated when they don't know the fair purchase or sale price of a pre-owned car. The main objective here is to develop a machine-learning model that predicts the price of used cars based on fundamental details, such as the year, model, make, and mileage.
